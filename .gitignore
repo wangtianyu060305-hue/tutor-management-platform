@@ -1,0 +1,24 @@
+# Secrets and local data
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/data/
+*.db
+*.db-shm
+*.db-wal
+
+# Dependencies and generated output
+**/node_modules/
+**/dist/
+**/dist-electron/
+**/build/
+**/coverage/
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

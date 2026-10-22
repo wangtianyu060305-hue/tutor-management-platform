@@ -1,0 +1,9 @@
+{
+  "appId": "com.tutor.app",
+  "appName": "家教管理",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
